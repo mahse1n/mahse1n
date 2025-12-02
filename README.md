@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Flutter applications, React, Python, and Docker, creating projects to make life simpler.
 
 👯 I’m looking to collaborate on interesting projects.

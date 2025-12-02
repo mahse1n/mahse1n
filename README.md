@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter applications, react and python and docker, doing projects to make life simpler.<br>👯 I’m looking to collaborate on anything.<br>🤝 I’m looking for help with finding a gf<br>🌱 I’m currently learning qwik, react<br>💬 Ask me about flutter kotlin, automation, bash<br>⚡ Fun fact, there is nothing funny here, stop laughing
+🔭 I’m currently working on Flutter applications, React, Python, and Docker, creating projects to make life simpler.
+👯 I’m looking to collaborate on anything.
+🤝 I’m looking for help finding a girlfriend.
+🌱 I’m currently learning Qwik and React.
+💬 Ask me about Flutter, Kotlin, automation, or Bash.
+⚡ Fun fact: there’s nothing funny here—stop laughing.
 
 
 ## 🌐 Socials:

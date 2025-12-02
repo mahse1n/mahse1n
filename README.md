@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Qwik and React.
 
-💬 Ask me about Flutter, Kotlin, automation, or Linnux.
+💬 Ask me about Flutter, Kotlin, automation, or Linux.
 
 ⚡ Fun fact: there’s nothing funny here—stop laughing.
 

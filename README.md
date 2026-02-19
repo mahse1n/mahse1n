@@ -35,7 +35,7 @@ meaningful products.
 ## Social Links
 
 LinkedIn\
-https://www.linkedin.com/in/mohammad-hosein-amini-940837275/
+https://www.linkedin.com/in/mohammad-hosein-amini
 
 Stack Overflow\
 https://stackoverflow.com/users/17356177
